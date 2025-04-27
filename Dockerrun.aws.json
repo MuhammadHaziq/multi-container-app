@@ -1,5 +1,5 @@
 {
-  "AWSESDockerrunversion": 2,
+  "AWSESDockerrunversion": 3,
   "containerDefinitions": [
     {
       "name": "react-app",
